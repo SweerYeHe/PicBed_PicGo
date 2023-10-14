@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T01:37:40.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="cSNhYiNWtjDuo1Ca4GYA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T01:41:44.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="cbhWKn2gJ8-WQoROVPr9" version="22.0.4" type="github">
   <diagram name="第 1 页" id="DGTWQ2kkaJQZKCou7Miu">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;发文章的平台&lt;/div&gt;&lt;div&gt;公众号&amp;nbsp; &amp;nbsp; &amp;nbsp;——个人思想理论展示&amp;nbsp;&lt;/div&gt;&lt;div&gt;b站专栏&amp;nbsp; &amp;nbsp;——小说，故事吸粉。干货思想理论只有粉丝看&lt;/div&gt;&lt;div&gt;小红书&amp;nbsp; &amp;nbsp; &amp;nbsp;——干货知识经验。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-3" value="视频剪辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-4" value="直播答疑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-5" value="文章写作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-6" value="歌曲制作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-7" value="周计划嵌入到——时间银行，&lt;br&gt;时间银行复制到——每个时间段。&lt;br&gt;思考清楚小任务。&lt;br&gt;小任务——最小任务" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="260" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-8" value="content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-9" value="content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-10" value="content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQgfHF7i1JguAHu4VEFD-11" value="content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
